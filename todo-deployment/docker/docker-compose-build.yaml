@@ -1,0 +1,13 @@
+services:
+  reverseproxy:
+    build:
+      context: .
+    image: programmingwsite/todo-reverseproxy 
+  backend_todo:
+    build:
+      context: ../../k8s-restapi-todo  
+    image: programmingsite/restapi-todo
+  frontend:
+    build:
+      context: ../../client 
+    image: programmingsite/todo-frontend:local

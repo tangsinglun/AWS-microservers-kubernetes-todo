@@ -1,0 +1,3 @@
+[2020-04-24 19:53:12.177] [sharedprocess] [info] main {"machineId":"b4705ced293ea0792faa3105d7b45c8faa77c56c6b6e7995f4f5bd1431dbbf01","windowId":2}
+[2020-04-24 19:53:12.231] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/sf_todo-work/Capstone-18AUG2020/~/.vscode-root/User/snippets'
+[2020-04-24 19:53:52.148] [sharedprocess] [info] Starting to clean up unused language packs.

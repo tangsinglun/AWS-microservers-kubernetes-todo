@@ -1,0 +1,2 @@
+[2020-04-24 19:53:09.313] [renderer1] [error] [storage state.vscdb] exec(): Error: SQLITE_IOERR_DELETE: disk I/O error
+[2020-04-24 19:53:09.456] [renderer1] [error] [storage state.vscdb] open(): Unable to open DB due to Error: SQLITE_IOERR_DELETE: disk I/O error

@@ -1,0 +1,20 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /media/sf_todo-work/Capstone-18AUG2020
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :k8s-restapi-todo/src/server.ts
+> git ls-files --stage -- /media/sf_todo-work/Capstone-18AUG2020/k8s-restapi-todo/src/server.ts
+> git cat-file -s 39d52afecb4a16d6cc2bb3c981cbda5341fdad48
+> git check-ignore -v -z --stdin
+> git show :k8s-restapi-todo/src/dataLayer/todosAccess.ts
+> git ls-files --stage -- /media/sf_todo-work/Capstone-18AUG2020/k8s-restapi-todo/src/dataLayer/todosAccess.ts
+> git cat-file -s 49ab8d44c591596e08be3abe2a9e9a018e268520
