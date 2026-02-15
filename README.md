@@ -47,7 +47,7 @@ For this project we will uses Oracle Vitualbox Virtual Machine for simulating th
 * The only options to install todo lists is by cloning from the git hub please follow the instructions below .
 
     1. From the Ubuntu/Linux Terminal, type in the command:
-        * git clone `https://github.com/singluntang/aws-microservers-kubernetes-todo`. 
+        * git clone `https://github.com/tangsinglun/aws-microservers-kubernetes-todo`. 
     2. After cloning, browse to the exercises folder. From the exercise folder,  you need to install the packages and dependencies for     `client`, `k8s-restapi-todo`. Type in the following command for each folder.
         * npm ci
     3. Build and Create the docker Images.
